@@ -17,7 +17,7 @@ Este projeto utiliza a API da Anthropic com o LangChain para criar um modelo de 
 
 ```sh
 # Clone o repositório do GitHub
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/LarissaRLira/TextSummarizationApp
 cd seu-repositorio
 ```
 
